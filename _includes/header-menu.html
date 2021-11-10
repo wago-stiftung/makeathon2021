@@ -1,0 +1,9 @@
+<div id="header_menu_row">
+    <div id="header_menu">
+        {% assign pages = site.html_pages | sort: 'path'  %}
+        <ul>
+        {% for p in pages %}<li class="{% if p.url == page.url %}active{% endif %}"><a href="{{ p.url | absolute_url }}">{{ p.title }}</a></li>
+        {% endfor %}
+        </ul>
+    </div>
+</div>
