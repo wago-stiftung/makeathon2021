@@ -14,4 +14,3 @@ Und wenn Eure Idee am Ende unsere Expertenjury überzeugen kann, erwartet Euch n
 - [Ideation Workshop](ideation.md)
 - [Shop](shop.md)
 - [Workshops](workshops.md)
-- 
