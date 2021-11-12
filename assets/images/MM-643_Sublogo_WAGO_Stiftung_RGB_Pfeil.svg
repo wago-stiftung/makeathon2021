@@ -1,0 +1,28 @@
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="-150 -150 832 832" style="background-color: #FFFFFF">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #626873;
+            }
+
+            .cls-2 {
+                fill: #6ec800;
+            }
+
+            .cls-3 {
+                opacity: 0.3;
+            }
+
+            .cls-4 {
+                fill: #fff;
+            }
+        </style>
+    </defs>
+    <title>WAGO Stiftung</title>
+    <rect class="cls-2" width="512" height="512" rx="65.83" transform="translate(10 10)"/>
+    <path class="cls-3" d="M768,468.41,629.26,329.68,367.56,767.84H702.17A66,66,0,0,0,768,702Z"
+        transform="translate(-246 -245.84)" />
+    <path class="cls-4"
+        d="M629.26,329.68,372.91,449.44h79l-186.09,287a65.94,65.94,0,0,0,56,31.41H446.21l206.68-318.4H707Z"
+        transform="translate(-246 -245.84)" />
+</svg>
