@@ -7,7 +7,7 @@ Ist die Liste zu lang oder unübersichtlich? Noch keine Idee womit ihr Eure Idee
 | Anzahl | Gruppe | Bezeichnung |
 | - | - | - |
 | x | Netzwerk | Patchkabel divers |
-| 20 | Netzwerk | USB-NMetzwerk Adapter |
+| 20 | Netzwerk | USB-Netzwerk Adapter |
 | - | - | - |
 | 3 | Werkzeug | Lötstation |
 | 2 | Werkzeug | Ablöt-Pumpe |
@@ -39,7 +39,7 @@ Ist die Liste zu lang oder unübersichtlich? Noch keine Idee womit ihr Eure Idee
 | 10 | Kleber | Tesafilm |
 | 1000 | Kabelbinder | divers |
 | 200 | Kabelbinder | Klebesockel |
-| 1 | Schrauben | Kasten Schrubensortiment M3-M6 |
+| 1 | Schrauben | Kasten Schraubensortiment M3-M6 |
 | 1 | Schrauben | Schraubensortiment Spax |
 | 6 | Beschriftung | Beschriftungsstreifen 12mm, 9mm |
 | 5 | Schreibmaterial | Blöcke Flipchart Papier |
