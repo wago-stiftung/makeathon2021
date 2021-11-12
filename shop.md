@@ -1,5 +1,9 @@
 # Shop
 
+Ist die Liste zu lang oder unübersichtlich? Noch keine Idee womit ihr Eure Idee umsetzen wollt? Dann sprecht unsere [Coaches](kontakte.md) an.
+
+## Das haben wir mitgebracht
+
 | Anzahl | Gruppe | Bezeichnung |
 | - | - | - |
 | x | Netzwerk | Patchkabel divers |
