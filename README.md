@@ -8,3 +8,10 @@ Neben der Arbeit am Projekt, gibt es noch ein abwechslungsreiches Rahmenprogramm
 
 Und wenn Eure Idee am Ende unsere Expertenjury überzeugen kann, erwartet Euch neben der Möglichkeit, das Projekt gegebenenfalls weiter zu verfolgen, ein Gewinn in Form von Sach- und Geldpreisen.  
 
+## Was wir bereitstellen und andere Infos
+
+- [Kontakte](kontakte.md)
+- [Ideation Workshop](ideation.md)
+- [Shop](shop.md)
+- [Workshops](workshops.md)
+- 
