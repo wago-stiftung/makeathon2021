@@ -126,7 +126,7 @@ Ist die Liste zu lang oder unübersichtlich? Noch keine Idee womit ihr Eure Idee
 | 10 | Motor | Vibrationsmotoren groß |
 | 30 | Motor | Servos 9g |
 | - | - | - |
-| 12 | Sensore | 40in1 Sensor Sets |
+| 12 | Sensor | 40in1 Sensor Sets |
 | 5 | Sensor | analoger Flüssiggas-Sensor MQ6 |
 | 5 | Sensor | Debo GAS1 MQ2 (brennbare Gase) |
 | 5 | Sensor | Debo GAS2 MQ2 (brennbare Gase und Rauch) |
@@ -154,7 +154,7 @@ Ist die Liste zu lang oder unübersichtlich? Noch keine Idee womit ihr Eure Idee
 | 10 | IO-Modul | 750-642 Enocean |
 | 10 | IO-Modul | 750-464/020-000 NTC |
 | 10 | IO-Modul | 750-469/000-006 Thermocouple J |
-| 3 | IO-Modul | 750-475 Strommessklemme 0..1A (zurück an Dietmar Klöpper!!!) |
+| 3 | IO-Modul | 750-475 Strommessklemme 0..1A |
 | 1 | IO-Modul | 750-475/020-000 Strommessklemme 0..5A |
 | 10 | IO-Modul | 750-653 RS485 serielles Modul |
 | 5 | IO-Modul | 750-647 DALI-Multi-Master |
