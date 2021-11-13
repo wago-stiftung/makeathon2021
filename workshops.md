@@ -7,10 +7,10 @@
 | Slot I | 11:00 | Jupiter | Ansprechende Visualisierungen mit **Grafana** | Paul Schlarmann |
 | Slot I | 11:00 | Earth | Alles Container - **Docker** Grundlagen und Einsatz auf dem WAGO PFC200 | Mattis Fieseler |
 | ---  | --- | ---  | --- |
-| Slot II | 11:30 | Jupiter | **Relationale Datenbanken** und SQL | Marco Henkel |
-| Slot II | 11:30 | Earth | Deta **Cloud - Microservices** aufsetzen und automatisieren | Andre Bell |
-| Slot II | 12:00 | Jupiter | Ansprechende Visualisierungen mit **Grafana** | Paul Schlarmann |
-| Slot II | 12:00 | Earth | **Raspberry Pi** | Jonas Patrick Völlmecke |
+| Slot II | 12:00 | Jupiter | **Relationale Datenbanken** und SQL | Marco Henkel |
+| Slot II | 12:00 | Earth | Deta **Cloud - Microservices** aufsetzen und automatisieren | Andre Bell |
+| Slot II | 12:30 | Jupiter | Ansprechende Visualisierungen mit **Grafana** | Paul Schlarmann |
+| Slot II | 12:30 | Earth | **Raspberry Pi** | Jonas Patrick Völlmecke |
 | ---  | --- | ---  | --- |
 | Slot III | 14:30 | Jupiter | **Raspberry Pi** | Jonas Patrick Völlmecke |
 | Slot III | 14:30 | Earth | Deta **Cloud - Microservices** aufsetzen und automatisieren | Andre Bell |
