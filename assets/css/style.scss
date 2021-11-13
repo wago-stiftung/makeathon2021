@@ -1,11 +1,9 @@
----
----
-
-* {
+--- --- * {
     box-sizing: border-box;
 }
 
-html, body {
+html,
+body {
     padding: 0;
     margin: 0;
     width: 100%;
@@ -124,7 +122,7 @@ header {
     align-items: center;
 }
 
-#header_menu > ul {
+#header_menu>ul {
     list-style-type: none;
     margin: 0;
     width: 100%;
@@ -132,17 +130,17 @@ header {
     text-align: center;
 }
 
-#header_menu > ul > li {
+#header_menu>ul>li {
     margin: 0;
     background-color: #F5F5F5;
     padding: 7px;
 }
 
-#header_menu > ul > li.active {
+#header_menu>ul>li.active {
     background-color: #6ec800;
 }
 
-#header_menu > ul > li:hover {
+#header_menu>ul>li:hover {
     background-color: #6ec800;
 }
 
@@ -164,7 +162,6 @@ header {
 //     height: 200px;
 //     border-bottom: 1px solid #1F2837;
 // }
-
 #menu_burger {
     display: inline;
     height: 51px;
@@ -207,12 +204,12 @@ main .github {
     top: 7px;
 }
 
-main .github > li {
+main .github>li {
     display: inline;
     margin-left: 15px;
 }
 
-main > div {
+main>div {
     width: 100%;
 }
 
@@ -253,4 +250,30 @@ input.task-list-item-checkbox {
 
 .task-list-item p {
     margin: 0;
+}
+
+@media only screen and (max-width: 600px) {
+    .header_container.desktop {
+        display: none;
+    }
+    .header_container.mobile {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    header {
+        height: 165px;
+        /* flex-direction: column; */
+    }
+    .header_container div {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+        /* max-width: 960px */
+    }
+    body {
+        margin-top: 165px;
+    }
 }
