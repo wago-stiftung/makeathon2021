@@ -16,7 +16,7 @@
 | Mattis Fieseler | Coach |
 | Paul Schlarmann | Coach |
 | Jonas Völlmecke | Coach |
-| Jens Walsemann | StartMIndenUp |
+| Jens Walsemann | StartMIndenUp, Jury |
 | Silke Timmermann | StartMIndenUp |
 
 In dringenden Fällen: 
