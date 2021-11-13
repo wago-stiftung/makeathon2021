@@ -20,4 +20,4 @@
 | Silke Timmermann | StartMIndenUp |
 
 In dringenden Fällen: 
-- Andre Bell 0162-2310628
+- Andre Bell 0162-4366403
